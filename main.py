@@ -82,7 +82,6 @@ def buttonInput(num):
 # window
 Window = ttk.Window(themename="darkly")
 Window.title("calculator")
-Window.geometry("400x500")
 
 # tk var
 input = tk.StringVar()
